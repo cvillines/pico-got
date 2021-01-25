@@ -1,0 +1,16 @@
+.pagination {
+  align-items: center;
+  font-size: 1.4rem;
+
+  .page-item {
+    margin: 0 5px;
+  }
+
+  button {
+    padding: 5px 10px;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
